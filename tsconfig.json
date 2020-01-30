@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "target": "ES2018",
+    "preserveConstEnums": true,
+    "lib": ["ES2015"]
+  },
+  "exclude": ["node_modules"]
+}

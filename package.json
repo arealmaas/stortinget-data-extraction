@@ -1,0 +1,25 @@
+{
+  "name": "datahenting",
+  "version": "1.0.0",
+  "description": "Get data from le Storting",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"soz no testse yet\""
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@rgrove/parse-xml": "^2.0.1",
+    "@types/mongodb": "^3.3.12",
+    "axios": "^0.19.0",
+    "fast-xml-parser": "^3.15.1",
+    "mongodb": "^3.4.0"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.149",
+    "@types/node": "^12.12.17",
+    "lodash": "^4.17.15",
+    "prettier": "1.19.1"
+  }
+}
