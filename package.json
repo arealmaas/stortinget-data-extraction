@@ -12,7 +12,7 @@
   "dependencies": {
     "@rgrove/parse-xml": "^2.0.1",
     "@types/mongodb": "^3.3.12",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "fast-xml-parser": "^3.15.1",
     "mongodb": "^3.4.0"
   },
